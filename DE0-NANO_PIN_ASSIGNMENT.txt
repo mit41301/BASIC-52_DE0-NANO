@@ -1,0 +1,6 @@
+RxD	Input	PIN_J14	
+SCL	Bidir	PIN_N14	
+SDA	Bidir	PIN_P14	
+SW1	Input	PIN_J15	
+SW2	Input	PIN_N16	
+Txd	Output	PIN_J13	
