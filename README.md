@@ -16,3 +16,8 @@
 ## ASCIIART 
 
 ![20250714_NANO_50MHz](https://github.com/user-attachments/assets/ae2e9887-3515-4c1f-a697-4532837a4357)
+
+## pin assignment
+
+<img width="241" height="361" alt="image" src="https://github.com/user-attachments/assets/68852971-dcd3-453e-8293-e763baf696ca" />
+
