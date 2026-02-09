@@ -30,3 +30,30 @@ GPIO_133 PIN_J14 GPIO Connection DATA 3.3V
 
 <img width="1459" height="757" alt="de0-nano_ext_battery" src="https://github.com/user-attachments/assets/e8c2349b-be66-4d8a-87ba-1cf5f02672de" />
 
+## HC-06 Bluetooth Module
+
+<img width="1100" height="1100" alt="hc-06-1100x1100" src="https://github.com/user-attachments/assets/d147c621-99c8-4e16-b6f0-b0b7b28c7cc3" />
+
+Description :  
+
+Serial port bluetooth, Drop-in replacement for wired serial connections, transparent usage. You can use it simply for a serial port replacement to establish connection between MCU and GPS, PC to your embedded project and etc.  
+
+Note : HC-06 need you choose Master or Slave(default), HC-05 does not matter.  
+
+Feature :  
+Bluetooth protocal:  Bluetooth Specification v2.0+EDR  
+Frequency:  2.4GHz ISM band  
+Modulation:  GFSK(Gaussian Frequency Shift Keying)  
+Emission power:  ≤4dBm, Class 2  
+Sensitivity:  ≤-84dBm at 0.1% BER  
+Speed: Asynchronous:  2.1Mbps(Max) / 160 kbps, Synchronous:1Mbps/1Mbps  
+Security:  Authentication and encryption  
+Profiles:  Bluetooth serial port  
+Power supply: +3.3VDC 50mA  
+Working temperature: -20 ~ +75 Centigrade  
+Dimension: 26.9mm x 13mm x 2.2 mm  
+
+Default :  
+
+Slave, 9600 baud rate, N, 8, 1. Pincode 1234  
+
