@@ -1,4 +1,4 @@
-## DE0-NANO
+<img width="1499" height="622" alt="gpio1" src="https://github.com/user-attachments/assets/ac586824-cb98-4a8c-9ee7-8c86f7f0d992" />## DE0-NANO
 
 <img width="1330" height="997" alt="DE0-NANO_Board" src="https://github.com/user-attachments/assets/29d29608-2aeb-4eb9-9fc1-7ce3538c4ce9" />
 
@@ -20,4 +20,11 @@
 ## pin assignment
 
 <img width="241" height="361" alt="image" src="https://github.com/user-attachments/assets/68852971-dcd3-453e-8293-e763baf696ca" />
+
+GPIO_132 PIN_J13 GPIO Connection DATA 3.3V  
+GPIO_133 PIN_J14 GPIO Connection DATA 3.3V  
+
+<img width="579" height="725" alt="gpio1_con" src="https://github.com/user-attachments/assets/5ad9a709-a6f1-48b9-bdd9-933f5148f3df" />
+
+<img width="1499" height="622" alt="gpio1" src="https://github.com/user-attachments/assets/ac586824-cb98-4a8c-9ee7-8c86f7f0d992" />
 
