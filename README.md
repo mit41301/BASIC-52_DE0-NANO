@@ -66,3 +66,7 @@ Slave, 9600 baud rate, N, 8, 1. Pincode 1234
 ![IMG_9618](https://github.com/user-attachments/assets/0d5fc17b-cb89-4709-98ce-5c93d3ad5f9b)
 
 ## CONNECT VCC, GND, TX and RX
+The module supply voltage is 5V. The Tx and Rx logic level is 3V3. 
+
+![HC06_level_3v3](https://github.com/user-attachments/assets/bd0997b2-9d46-4116-8eee-c2734933cf2e)
+
