@@ -57,7 +57,7 @@ Default :
 
 Slave, 9600 baud rate, N, 8, 1. Pincode 1234  
 
-## HC-06 with DE0-NANO
+## HC-06 with SPP firmware for UART communication + DE0-NANO
 
 ![IMG_9615](https://github.com/user-attachments/assets/f4d7b6b0-9116-455a-912c-10efbd7d08da)
 
