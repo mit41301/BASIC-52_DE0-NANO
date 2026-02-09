@@ -1,4 +1,4 @@
-<img width="1499" height="622" alt="gpio1" src="https://github.com/user-attachments/assets/ac586824-cb98-4a8c-9ee7-8c86f7f0d992" />## DE0-NANO
+## DE0-NANO EP4CE22F17C6
 
 <img width="1330" height="997" alt="DE0-NANO_Board" src="https://github.com/user-attachments/assets/29d29608-2aeb-4eb9-9fc1-7ce3538c4ce9" />
 
@@ -27,4 +27,6 @@ GPIO_133 PIN_J14 GPIO Connection DATA 3.3V
 <img width="579" height="725" alt="gpio1_con" src="https://github.com/user-attachments/assets/5ad9a709-a6f1-48b9-bdd9-933f5148f3df" />
 
 <img width="1499" height="622" alt="gpio1" src="https://github.com/user-attachments/assets/ac586824-cb98-4a8c-9ee7-8c86f7f0d992" />
+
+<img width="1459" height="757" alt="de0-nano_ext_battery" src="https://github.com/user-attachments/assets/e8c2349b-be66-4d8a-87ba-1cf5f02672de" />
 
