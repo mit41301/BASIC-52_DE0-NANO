@@ -57,3 +57,12 @@ Default :
 
 Slave, 9600 baud rate, N, 8, 1. Pincode 1234  
 
+## HC-06 with DE0-NANO
+
+![IMG_9615](https://github.com/user-attachments/assets/f4d7b6b0-9116-455a-912c-10efbd7d08da)
+
+![IMG_9620](https://github.com/user-attachments/assets/3427a02c-0bdd-4f0c-ade6-9303eb79e493)
+
+![IMG_9618](https://github.com/user-attachments/assets/0d5fc17b-cb89-4709-98ce-5c93d3ad5f9b)
+
+## CONNECT VCC, GND, TX and RX
